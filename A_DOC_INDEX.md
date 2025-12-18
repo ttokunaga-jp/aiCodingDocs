@@ -11,7 +11,7 @@
 - G: 技術スタック制約 `G_TECH_STACK_CONSTRAINTS.md` (言語/ライブラリの許可・禁止)
 - H: テスト戦略 `H_TEST_STRATEGY.md` (UT/IT方針とカバレッジ基準)
 - I: エラー/ログ標準 `I_ERROR_LOG_STANDARD.md` (RFC7807, JSON Lines ログ)
-- J: 環境変数レジストリ `J_ENV_VARS_REGISTRY.md` (型・必須・Secret・再起動要否)
+- J: 環境変数レジストリ `J_ENV_VARS_REGISTRY.md` (汎用テンプレート: Local/CI/Prod, Secret Manager参照)
 - K: Dockerfile方針 `K_DOCKERFILE_POLICY.md` (ベース/ランタイム/非root/キャッシュ戦略)
 - L: CI/CD仕様 `L_CICD_SPEC.md` (Lint/Test/Security/Build/Deploy フロー)
 - M: Feature Flag方針 `M_FEATURE_FLAG_POLICY.md` (命名/SDKラッパ/フォールバック)
@@ -19,3 +19,4 @@
 - O: フェーズ別タスクブレークダウン `O_TASK_PHASES.md` (進行順と依存)
 - P: 実装レポートフォーマット `P_IMPLEMENT_REPORT_FMT.md` (Markdown+JSON の提出型)
 - Q: フェーズ1プロンプト雛形 `docs/Q_PHASE1_PROMPT.md` (開始時指示の雛形)
+- R: ユースケース定義書 `R_USE_CASES.md` (主要シナリオと受入条件)
