@@ -1,6 +1,6 @@
 # Development Phases & Task Breakdown
 
-このプロジェクトは以下の5フェーズで進行する。前フェーズの Completion Criteria を満たすまでは次フェーズへ進まないこと。各フェーズ開始時に「共通プロンプト構成 (下記)」を使って指示を生成し、完了時は `IMPLEMENT_REPORT_FMT.md` の形式でレポートを提出する。
+このプロジェクトは以下の5フェーズで進行する。前フェーズの Completion Criteria を満たすまでは次フェーズへ進まないこと。各フェーズ開始時に「共通プロンプト構成 (下記)」を使って指示を生成し、完了時は `P_IMPLEMENT_REPORT_FMT.md` の形式でレポートを提出する。
 
 ## フェーズプロンプト共通テンプレート
 
@@ -95,4 +95,3 @@
 1. [Obs] 構造化ログ、Metrics (Prometheus)、Tracing 設定
 2. [Test] E2E シナリオ (Docker Compose 全体起動でテスト)
 3. [Doc] README と API ドキュメントの最終更新
-
